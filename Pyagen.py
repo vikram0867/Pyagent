@@ -10,7 +10,6 @@
 # http://msdn.microsoft.com/en-us/library/cc227259%28PROT.13%29.aspx
 #
 
-#import array
 import array
 import base64
 import httplib
